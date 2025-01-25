@@ -1,2 +1,1 @@
-# Myproj
-Project
+# coding-project-template
